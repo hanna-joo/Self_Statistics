@@ -2,7 +2,7 @@
 
 ## 1. [파이썬 기반 비즈니스 통계](https://github.com/hanna-joo/statistics/tree/master/stat_python)
   + 기본 통계 내용 및 비즈니스 통계 기법
-  + 파이썬 기반으로 한 통계 기법 함수
+  + 파이썬 언어 기반의 통계 기법 함수
     + 상관분석
     + 군집분석
     + 포지셔닝 분석
