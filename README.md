@@ -10,5 +10,3 @@
     + 회귀분석
   + 스터디 서적: '파이썬 비즈니스 통계'
   + 폴더명: stat_python
-
-## 2. [R 기반 통계](https://github.com/hanna-joo/statistics/tree/master/stat_R)
